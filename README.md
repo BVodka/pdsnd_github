@@ -1,13 +1,21 @@
-## UdacityBikeShare
+# UdacityBikeShare
 
-### 7-12-2019
+## 7-12-2019
 
-### Description
+## Description
 Describe what your project is about and what it does
 
-### Files used
-Include the files used
+## Files used
+### Data Files
+```bash
+- chicago.csv
+- new_york_city.csv
+- washington.csv
+```
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### Scripts
+```bash
+- bikeshare.py
+-input_util.py
+```
 
