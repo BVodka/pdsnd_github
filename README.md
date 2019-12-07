@@ -1,8 +1,6 @@
-### Date created
-Include the date you created this project and README file.
+## UdacityBikeShare
 
-### Project Title
-Replace the Project Title
+### 7-12-2019
 
 ### Description
 Describe what your project is about and what it does
